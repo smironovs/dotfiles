@@ -48,3 +48,14 @@ Thumbs.db
 *.mov
 *.wmv
 
+# Neovim temporary/session files
+*.swp
+*.swo
+Session.vim
+
+# Lazy.nvim plugin lock file: keep if you want reproducible plugins
+# nvim/lazy-lock.json
+
+# OS junk
+.DS_Store
+Thumbs.db
